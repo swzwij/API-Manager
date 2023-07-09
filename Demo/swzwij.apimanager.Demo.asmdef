@@ -1,0 +1,16 @@
+{
+    "name": "swzwij.apimanager.Demo",
+    "rootNamespace": "",
+    "references": [
+        "GUID:fb3f6fe8f23786c40baecb3a27df01c4"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
